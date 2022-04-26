@@ -4,8 +4,11 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: instagram
+  icon: 'fab fa-instagram'
+-
+  type: artstation
+  icon: 'fab fa-artstation'
 -
   type: email
   icon: 'fas fa-envelope'
