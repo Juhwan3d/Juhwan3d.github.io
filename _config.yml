@@ -34,8 +34,14 @@ url: 'https://juhwan3d.github.io'
 github:
   username: Juhwan3d             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+instagram:
+  username: juhwan_3d
+
+artstation:
+  username: j_juhwan
+
+# twitter:
+  # username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
