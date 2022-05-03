@@ -1,5 +1,5 @@
 ---
-title: \[3D\] 봉 (Pole)
+title: "[3D] 봉 (Pole)"
 date: 2022-04-27
 categories: [Public, 3D]
 tags: [Rendered, blender, substance painter, weapon, game asset]
