@@ -12,10 +12,10 @@ substance painter는 여전히 어렵다.. 사실 컨셉아트는 고사하고 �
 
 아래는 렌더링된 이미지이다. 렌더링은 blender에서 4k해상도로 진행했다.
 
-![Pole_blender_1](./assets/img/post_img/pole_blender.png "Pole (render in blender)")
+![Pole_blender_1](https://i.esdrop.com/d/f/GVmXMpARey/ghh1QCW8Tv.png "Pole (render in blender)")
 <center><sub>Pole (Face count - 12,144)</sub></center>
 
-![Pole_blender_2](./assets/img/post_img/pole_blender_2.png "Pole handle (render in blender)")
+![Pole_blender_2](https://i.esdrop.com/d/f/GVmXMpARey/A5obwiLx4W.png "Pole handle (render in blender)")
 <center><sub>Handle</sub></center>
 
 
