@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Juhwan Studio                          # the main title
 
-tagline: Modeling, Texturing, Rendering   # it will display as the sub-title
+tagline: Juhwan's individual studio   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Juhwan's individual studio.
