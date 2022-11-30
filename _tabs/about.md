@@ -15,7 +15,7 @@ order: 4
 * Male
 * [Kyung Hee University Software convergence](http://swcon.khu.ac.kr/)
 
-## Programs
+## Tools
 * [Blender](https://www.blender.org/) - Modeling, Sculpting, UV mapping, Rendering
 * [Substance 3D Painter](https://www.adobe.com/kr/products/substance3d-painter.html) - Baking, Texturing
 * [Unity](https://unity.com/) - Game develop
