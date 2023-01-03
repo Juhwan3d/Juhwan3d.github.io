@@ -32,7 +32,8 @@ tags: [blog]
 정리하면 이번 소페는 개인적으로 너무 아쉬웠다. 결과가 좋지 않았던건 맞지만 그것때문만은 아니다. 프로젝트를 진행하는 동안 한번도 내 게임에 재미를 느끼지 못해서 작업하는 내내 즐겁지가 않았다..   
 <br>
 <br>
-아래는 소개페이지와 데모영상이다.   
----
-소개페이지: <https://github.com/mmindoong/2022SWFestival_KSWAG>
+
+---  
+
+소개페이지: <https://github.com/mmindoong/2022SWFestival_KSWAG>  
 데모영상: <https://www.youtube.com/watch?v=_UB4R-etXuI>
