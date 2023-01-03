@@ -1,6 +1,6 @@
 ---
 title: "[Algorithm] 알고리즘 공부 1일차.."
-date: 2023-01-02
+date: 2021-01-02
 categories: [Public]
 tags: [algorithm]
 ---
