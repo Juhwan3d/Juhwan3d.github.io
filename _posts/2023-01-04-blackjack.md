@@ -1,6 +1,6 @@
 ---
 title: "[Algorithm] 백준 문제 풀이 (2798번 블랙잭)"
-date: 2022-01-04
+date: 2023-01-04
 categories: [Public]
 tags: [algorithm]
 ---
